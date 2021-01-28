@@ -1,6 +1,7 @@
-# Tutorial by Heidi
+# Intro to Jekyll: Tutorial by Heidi
 ## Why Jekyll?
 Jekyll has some great advantages over WordPress. It is especially useful for websites that are information driven and must be static.
+
 **Pros**
 1. served up blazing fast
 2. source controlled by default
@@ -19,16 +20,17 @@ Jekyll has some great advantages over WordPress. It is especially useful for web
 4. extensions are run at build time rather at time of request
 5. harder for a client to understand
 6. slight learning curve
+7. public sites only on free GitHub accounts, so not good for private data unless you are a Pro or higher member
 
 ##
 ### Resources
--[simple tutorial to get up and running with Jekyll on GitHub pages](https://pages.github.com/)
--[long version of tutorial for Jekyll on GitHub pages](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
--[pick a non-standard theme](https://jekyllthemes.io/github-pages-themes)
--[master markdown](https://guides.github.com/features/mastering-markdown/)
--[online editor with real-time preview](https://dillinger.io/)
--[develop with Jekyll locally](https://jekyllrb.com/docs/)
--[configure a custom domain](https://docs.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site)
+- [simple tutorial to get up and running with Jekyll on GitHub pages](https://pages.github.com/)
+- [long version of tutorial for Jekyll on GitHub pages](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
+- [pick a non-standard theme](https://jekyllthemes.io/github-pages-themes)
+- [master markdown](https://guides.github.com/features/mastering-markdown/)
+- [online editor with real-time preview](https://dillinger.io/)
+- [develop with Jekyll locally](https://jekyllrb.com/docs/)
+- [configure a custom domain](https://docs.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site)
 
 ## Welcome to GitHub Pages
 
