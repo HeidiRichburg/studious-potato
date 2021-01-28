@@ -22,8 +22,37 @@ Jekyll has some great advantages over WordPress. It is especially useful for web
 6. slight learning curve
 7. public sites only on free GitHub accounts, so not good for private data unless you are a Pro or higher member
 
-##
-### Resources
+## Let's do this!
+1. Create a new repository on GitHub
+2. Go to 'Settings'
+3. Scroll to the _GitHub Pages_ section, select a theme from the dropdown and press **Select Theme**.
+4. Edit the index.md file and commit
+5. Open your new site in a browser: username.github.io/repo-name
+
+## Add a new flavor
+1. Pick a more interesting theme [here](https://jekyllthemes.io/github-pages-themes)
+2. Let's try this with _[the Millenial theme](https://github.com/LeNPaul/Millennial)_
+3. Fork the theme
+4. Change the repository name if you wish
+5. check that the site is live _(it should be live immediately)_
+5. update per the Readme.md
+6. navigate to __data/settings.yml
+7. navigate to __posts folder
+
+## Add a new post
+1. click _Add New_
+2. name the file with the following format yyyy-mm-dd-this-is-the-filename.md
+3. add content to the file
+4. commit changes
+5. check it out live!
+
+## Where to go now....
+1. play around with layouts
+2. learn _Liquid_
+
+
+
+## Resources
 - [simple tutorial to get up and running with Jekyll on GitHub pages](https://pages.github.com/)
 - [long version of tutorial for Jekyll on GitHub pages](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
 - [pick a non-standard theme](https://jekyllthemes.io/github-pages-themes)
