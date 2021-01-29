@@ -53,7 +53,7 @@ Jekyll has some great advantages over WordPress. It is especially useful for web
 3. add a new [_page_](https://jekyllrb.com/docs/pages/) maybe _'About Me'_
 4. learn about [_collections_](https://jekyllrb.com/docs/collections/) and maybe add a collection of your favorite cities
 5. learn about [_variables_](https://jekyllrb.com/docs/variables/)
-6. examine the [_config.yml page](https://github.com/HeidiRichburg/MillennialTemplate/blob/gh-pages/_config.yml) to see how _[site configuration](https://jekyllrb.com/docs/configuration/)_ is done (title, etc)
+6. examine the [_config.yml](https://github.com/HeidiRichburg/MillennialTemplate/blob/gh-pages/_config.yml) page to see how [_site configuration_](https://jekyllrb.com/docs/configuration/) is done (title, etc)
 
 
 
