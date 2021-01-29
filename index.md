@@ -39,16 +39,20 @@ Jekyll has some great advantages over WordPress. It is especially useful for web
 6. navigate to __data/settings.yml
 7. navigate to __posts folder
 
-## Add a new post
+## Add a new [post](https://jekyllrb.com/docs/posts/)
 1. click _Add New_
-2. name the file with the following format yyyy-mm-dd-this-is-the-filename.md
+2. name the file with the following format **YYYY-MM-DD-FILE-NAME.md**
 3. add content to the file
+4. add [_front matter_](https://jekyllrb.com/docs/front-matter/) to the file
 4. commit changes
 5. check it out live!
 
-## Where to go now....
-1. play around with layouts
-2. learn _Liquid_
+## What's next....
+1. play around with [_layouts_](https://jekyllrb.com/docs/layouts/)
+2. learn [_Liquid_](https://jekyllrb.com/docs/liquid/)
+3. add a new [_page_](https://jekyllrb.com/docs/pages/) maybe _'About Me'_
+4. learn about [_collections_](https://jekyllrb.com/docs/collections/) and maybe add a collection of your favorite cities
+5. learn about [_variables_]
 
 
 
@@ -61,6 +65,7 @@ Jekyll has some great advantages over WordPress. It is especially useful for web
 - [develop with Jekyll locally](https://jekyllrb.com/docs/)
 - [configure a custom domain](https://docs.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site)
 
+## Below is all the stuff that was included with the theme....
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/HeidiRichburg/studious-potato/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
