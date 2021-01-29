@@ -35,9 +35,9 @@ Jekyll has some great advantages over WordPress. It is especially useful for web
 3. Fork the theme
 4. Change the repository name if you wish
 5. check that the site is live _(it should be live immediately)_
-5. update per the Readme.md
-6. navigate to __data/settings.yml
-7. navigate to __posts folder
+6. navigate to [__data/settings.yml](https://github.com/HeidiRichburg/MillennialTemplate/blob/gh-pages/_data/settings.yml)
+7. update per the Readme.md
+8. navigate to [__posts folder](https://github.com/HeidiRichburg/MillennialTemplate/tree/gh-pages/_posts)
 
 ## Add a new [post](https://jekyllrb.com/docs/posts/)
 1. click _Add New_
@@ -53,6 +53,7 @@ Jekyll has some great advantages over WordPress. It is especially useful for web
 3. add a new [_page_](https://jekyllrb.com/docs/pages/) maybe _'About Me'_
 4. learn about [_collections_](https://jekyllrb.com/docs/collections/) and maybe add a collection of your favorite cities
 5. learn about [_variables_](https://jekyllrb.com/docs/variables/)
+6. examine the [_config.yml page](https://github.com/HeidiRichburg/MillennialTemplate/blob/gh-pages/_config.yml) to see how _[site configuration](https://jekyllrb.com/docs/configuration/)_ is done (title, etc)
 
 
 
