@@ -52,7 +52,7 @@ Jekyll has some great advantages over WordPress. It is especially useful for web
 2. learn [_Liquid_](https://jekyllrb.com/docs/liquid/)
 3. add a new [_page_](https://jekyllrb.com/docs/pages/) maybe _'About Me'_
 4. learn about [_collections_](https://jekyllrb.com/docs/collections/) and maybe add a collection of your favorite cities
-5. learn about [_variables_]
+5. learn about [_variables_](https://jekyllrb.com/docs/variables/)
 
 
 
